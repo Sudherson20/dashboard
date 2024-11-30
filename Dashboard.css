@@ -1,0 +1,23 @@
+.dashboard {
+    padding: 20px;
+    background-color: #f4f6f9;
+  }
+  
+  .stats-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .sales-area {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .bottom-section {
+    display: flex;
+    gap: 20px;
+  }
+  
